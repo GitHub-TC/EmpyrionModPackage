@@ -1,5 +1,9 @@
 # EmpyrionModPackage
-Das Paket aller meiner Mods 
+Das Paket aller meiner Mods  
+
+https://empyriononline.com/threads/mod-my-mods-astic-compatible-with-the-v1-11.49107/
+
+Alle funktionierenden Mods in einem Paket kannst du hier herunterladen - entpacke es einfach in deinen ...\Content\Mods Ordner
 
 ## Nitrado (und ggf andere Gamehoster)
 Gamehoster nutzen oft eine "Whitelist" der erlaubten Prozessnamen (z.B. EmpyrionPlayfieldServer.exe), daher musst man für diese den Hostprozess 
@@ -23,6 +27,10 @@ umbenennen bzw falls die ".bin" Datei nicht existiert die Datei "...\ModLoader\H
 
 # EmpyrionModPackage
 All my running mods with the ModLoader 
+
+https://empyriononline.com/threads/mod-my-mods-astic-compatible-with-the-v1-11.49107/
+
+All the working mods in one bundle you can download here - simple unzip it in your ...\Content\Mods folder
 
 ## Nitrado (and possibly other gamehosters)
 Gamehosts often use a "whitelist" of allowed process names (e.g. EmpyrionPlayfieldServer.exe), so you have to rename the host process for them. 
